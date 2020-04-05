@@ -1,2 +1,6 @@
 # Binary filename
 out
+
+# Haskell
+*.hi
+*.o
